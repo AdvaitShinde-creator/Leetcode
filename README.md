@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0482-license-key-formatting) |
 | [0844-backspace-string-compare](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
