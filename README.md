@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0415-add-strings) |
+| [2427-number-of-common-factors](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
