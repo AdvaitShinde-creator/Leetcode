@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0482-license-key-formatting) |
 | [0844-backspace-string-compare](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
