@@ -21,7 +21,7 @@ class Solution {
     public int[] closestPrimes(int left, int right) {
 
         int[] temp = {-1, -1};
-        int[] ans = new int[right - left + 1];
+        int[] ans = new int[right];
         int ind = 0;
 
         for(int i = left; i <= right; i++){
