@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0415-add-strings) |
 | [0866-prime-palindrome](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0866-prime-palindrome) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0202-happy-number) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 ## Trie
 |  |
