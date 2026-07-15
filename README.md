@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0415-add-strings) |
+| [0866-prime-palindrome](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Simulation
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Hash Table
