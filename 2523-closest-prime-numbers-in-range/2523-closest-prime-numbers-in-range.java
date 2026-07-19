@@ -40,7 +40,6 @@ class Solution {
                 temp[1] = ans[i + 1];
             }
         }
-
         return temp;
     }
 }
