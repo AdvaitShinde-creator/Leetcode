@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
+| [0414-third-maximum-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0414-third-maximum-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 ## Two Pointers
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
