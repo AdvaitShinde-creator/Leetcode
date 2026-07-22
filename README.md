@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2490-circular-sentence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2490-circular-sentence) |
+| [3110-score-of-a-string](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
 | ------- |
