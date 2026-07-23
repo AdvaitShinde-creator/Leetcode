@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0414-third-maximum-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 ## Two Pointers
@@ -92,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
