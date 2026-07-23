@@ -1,15 +1,13 @@
 class MyCalendar {
 
-    List<int[]> bookings;
+    List<int[]> bookings = new ArrayList<>();;
 
     public MyCalendar() {
-        bookings = new ArrayList<>();
     }
 
     public boolean book(int start, int end) {
 
         for (int[] booking : bookings) {
-
             if (start < booking[1] && end > booking[0]) {
                 return false;
             }
