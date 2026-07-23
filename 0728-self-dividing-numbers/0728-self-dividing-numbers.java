@@ -2,6 +2,9 @@ class Solution {
 
     public boolean selfcheck(int num){
         int temp = num;
+        if(num < 10){
+            return true;
+        }
         while(num > 0){
             int a = num%10;
             if(a == 0){
@@ -19,10 +22,7 @@ class Solution {
         List<Integer> arr = new ArrayList<>();
 
         for(int i = left ; i <= right ; i++){
-            if(i < 10){
-                arr.add(i);
-            }
-            else if(selfcheck(i)){
+            if(selfcheck(i)){
                 arr.add(i);
             }
         }
