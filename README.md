@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Two Pointers
 |  |
 | ------- |
