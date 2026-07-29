@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0074-search-a-2d-matrix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -107,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1672-richest-customer-wealth](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
 | [1539-kth-missing-positive-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Design
