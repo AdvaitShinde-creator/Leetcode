@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Two Pointers
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
+| [1539-kth-missing-positive-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Design
 |  |
 | ------- |
