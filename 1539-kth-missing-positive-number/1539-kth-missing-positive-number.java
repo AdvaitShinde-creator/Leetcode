@@ -1,7 +1,6 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
         Set<Integer> seen = new HashSet<>();
-        int[] ans = new int[1001];
 
         for(int i = 0 ; i < arr.length ; i++){
             seen.add(arr[i]);
