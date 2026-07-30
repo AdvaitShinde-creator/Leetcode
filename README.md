@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0925-long-pressed-name) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
 | [1539-kth-missing-positive-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Design
