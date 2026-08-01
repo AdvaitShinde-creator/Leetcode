@@ -6,7 +6,6 @@ class Solution {
 
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            // Map 1D index back to 2D coordinates
             int midValue = matrix[mid / n][mid % n];
 
             if (midValue == target) return true;
