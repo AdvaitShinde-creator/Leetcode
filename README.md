@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0729-my-calendar-i) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0877-stone-game](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0866-prime-palindrome](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0877-stone-game) |
 | [2427-number-of-common-factors](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Simulation
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
