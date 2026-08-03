@@ -1,19 +1,19 @@
 class Solution {
-    public int lengthOfLongestSubstring(String s){
+    public int lengthOfLongestSubstring(String s) {
         HashSet<Character> seen = new HashSet<>();
-        char[] arr = s.toCharArray();
+        int maxLen = 0;
+        int left = 0; // Left boundary of our sliding window
 
-        int len = 0;
-        int left = 0;
-
-        for(int right = 0; right < arr.length ; right++){
-            while(seen.contains(arr[right])){
-                seen.remove(arr[left]);
+        for (int right = 0; right < s.length(); right++) {
+            // If duplicate found, remove characters from the left until it's gone
+            while (seen.contains(s.charAt(right))) {
+                seen.remove(s.charAt(left));
                 left++;
             }
-            seen.add(arr[right]);
-            len = Math.max(len , right-left+1);
+            
+            seen.add(s.charAt(right));
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-        return len;
+        return maxLen;
     }
 }
