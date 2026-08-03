@@ -4,20 +4,15 @@ class Solution {
         char[] arr = s.toCharArray();
 
         int len = 0;
-        int count = 0;
+        int left = 0;
 
-        for(int i = 0; i < arr.length ; i++){
-            if(seen.contains(arr[i])){
-                seen.clear();
-                i = Math.abs(i - count);
-                count = 0;
-                continue;
+        for(int right = 0; right < arr.length ; right++){
+            while(seen.contains(arr[right])){
+                seen.remove(arr[left]);
+                left++;
             }
-            seen.add(arr[i]);
-            count++;
-            if(len < count){
-                len = count;
-            }
+            seen.add(arr[right]);
+            len = Math.max(len , right-left+1);
         }
         return len;
     }
