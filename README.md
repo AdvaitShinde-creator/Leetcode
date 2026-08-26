@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0925-long-pressed-name](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2490-circular-sentence](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/3110-score-of-a-string) |
 ## Math
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
