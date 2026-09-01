@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0482-license-key-formatting](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0567-permutation-in-string) |
 | [0890-find-and-replace-pattern](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
