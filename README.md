@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3467-transform-array-by-parity](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3903-smallest-stable-index-i](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3467-transform-array-by-parity](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |
