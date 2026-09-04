@@ -1,15 +1,10 @@
 class Solution {
-    int min = Integer.MAX_VALUE;
-    int max = Integer.MIN_VALUE;
-
     public int firstStableIndex(int[] nums, int k) {
         int max1 = 0;
         int min1 = 0;
 
         for(int i = 0 ; i < nums.length ; i++){
-            max1 = max(i,nums);
-            min1 = min(i,nums);
-            if(max1-min1 <= k){
+            if(max(i,nums)-min(i,nums) <= k){
                 return i;
             }    
         }
