@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
