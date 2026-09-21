@@ -9,7 +9,6 @@ class Solution {
                 zeroCount++;
             }
 
-            // Shrink until the window contains at most k zeros
             while (zeroCount > k) {
                 if (nums[left] == 0) {
                     zeroCount--;
