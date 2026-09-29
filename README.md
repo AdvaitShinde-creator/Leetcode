@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0866-prime-palindrome](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0877-stone-game) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -279,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdvaitShinde-creator/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
